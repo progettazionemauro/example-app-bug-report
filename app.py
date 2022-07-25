@@ -1,7 +1,6 @@
 # Streamlit moduli streamlit
 from curses.ascii import SP
 from http import client
-from tkinter import S
 import streamlit as st
 import pandas as pd
 
