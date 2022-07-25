@@ -12,7 +12,7 @@ from pprint import pprint
 
 
 # Create a connection object.
-conn = connect()
+# conn = connect()
 
 # Get a list of all records
 
