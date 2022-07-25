@@ -7,7 +7,7 @@ import pandas as pd
 
 
 from pprint import pprint
-from gsheetsdb import connect
+# from gsheetsdb import connect
 
 
 
